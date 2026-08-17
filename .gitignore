@@ -1,0 +1,8 @@
+.idea/
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+ffmpeg2pass*
+build/
+dist/
